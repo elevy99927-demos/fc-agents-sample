@@ -1,5 +1,7 @@
 # fc-agents-sample
 
+Part of the **DevOps Training** course on YouTube: https://www.youtube.com/@Full-DevOps-Training
+
 A small repository with **planted problems**, for the Firecracker lab *Run AI Agents in Isolated MicroVMs*, Part 3
 (https://github.com/elevy99927/aws/tree/main/6-advanced-labs/01-firecracker-agent-sandbox/part-3-three-agents).
 Three scanners run on it inside a microVM: Trivy, Semgrep and Gitleaks. Nothing here is real: the token is a random
