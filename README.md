@@ -1,5 +1,10 @@
 # fc-agents-sample
 
+> **Disclaimer: this repository is a test fixture for a security lab. It contains known vulnerabilities on purpose.**
+> The dependencies in `requirements.txt` have published CVEs, `app.py` has dangerous code patterns, the `Dockerfile`
+> runs as root, and the git history holds a fake API token. Nothing here is meant to be installed, run, deployed or
+> copied into a real project. Use it only as input for the scanners in the lab below, inside the lab's isolated microVM.
+
 Part of the **DevOps Training** course on YouTube: https://www.youtube.com/@Full-DevOps-Training
 
 A small repository with **planted problems**, for the Firecracker lab *Run AI Agents in Isolated MicroVMs*, Part 3
