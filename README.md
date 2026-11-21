@@ -21,3 +21,5 @@ string that was committed and then removed (so it only lives in the git history)
 | `config.py` in the first commit | a fake API token | Gitleaks (the history) |
 
 Do not run `app.py`. It is a sample for scanners, not an application.
+
+Test pull request for Part 4 of the Firecracker lab: the webhook starts the scan.
